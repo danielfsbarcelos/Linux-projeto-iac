@@ -1,2 +1,1 @@
-# Linux-projeto-iac
-curso linux dio
+Linux - Projeto 
